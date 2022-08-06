@@ -1,0 +1,277 @@
+.mohamed {
+    width: 900px;
+    height: 550px;  
+    margin-top: 49px;
+    margin-left: 230px;
+    position: absolute;
+    background-color: white;
+}
+
+.all {
+    background-color: #eee;
+    width: 101%;
+    height: 650px;
+    position: relative;
+    margin-left: -6px;
+    margin-top: -9px;
+}
+
+.xbox {
+    width: 140px;
+    height: 32px;
+    margin-top: 30px;
+    margin-left: 70px;
+    float: left;
+}
+
+.consoles {
+    float: left;
+    margin-top: 36.5px;
+    margin-left: 20px;
+    color: rgb(126, 125, 125);
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.games {
+    float: left;
+    margin-top: 36.5px;
+    margin-left: 20px;
+    color: rgb(126, 125, 125);
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.community {
+    float: left;
+    margin-top: 36.5px;
+    font-size: 14px;
+    margin-left: 20px;
+    color: rgb(126, 125, 125);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.accesories {
+    float: left;
+    margin-top: 36.5px;
+    font-size: 14px;
+    margin-left: 20px;
+    color: rgb(126, 125, 125);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.right-arrow {
+    float: left;
+    margin-top: 36px;
+    margin-left: 5px;
+    /* width: 0.0001px;
+    height: 0.0001px; */
+}
+
+.arrow {
+     width: 10px;
+    height: 10px; 
+}
+
+.search {
+    float: left;
+    margin-top: 35px;
+    width: 140px;
+    margin-left: 110px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: rgb(126, 125, 125);
+    
+}
+
+.searchh {
+    width: 13px;
+    height: fit-content;
+    margin-top: 35px;
+    margin-left: -15px;
+    position: absolute;
+}
+
+.s {
+    font-weight: bolder;
+    font-size: 55px;
+    margin-top: 140px;
+    margin-left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.so {
+    font-weight: bold;
+    font-size: 55px;
+    margin-left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.joys {
+    width: 455px;
+    height: 355px;
+    margin-left: 480px;
+    position: absolute;
+    top: 80px;
+
+}
+
+.play {
+    margin-top: 20px;
+    margin-left: 70px;
+    font-size: 16px;
+    color: rgb(126, 125, 125);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hello {
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.The-Best {
+    margin-left: 70px;
+    font-size: 16px;
+    color: rgb(126, 125, 125);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.learn {
+    background-color: rgb(0, 104, 0);
+    color: white;
+    padding: 20px 30px 20px 30px;
+    width: 100px;
+    height: 10px;
+    margin-top: 25px;
+    margin-left: 70px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.foot {
+    background-color: rgb(49, 48, 48);
+    width: 760px;
+    height: 110px;
+    margin-left: 70px;
+    margin-top: 41px;
+    border-radius: 25px 25px 5px 5px;
+    position: relative;
+    
+}
+
+.borderland {
+    width: 70px;
+    height: 70px;
+    margin-left:  40px;
+    margin-top:  20px;
+    float: left;
+}
+
+.borderland-3 {
+    margin-top: 30px;
+    margin-left: 117px;
+    color: white;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.Mayhem {
+    color: rgb(126, 125, 125);
+    position: absolute;
+    margin-left: 117px;
+    margin-top: 55px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.more {
+    color: white;
+    position: absolute;
+    margin-top: 82px;
+    margin-left: 117px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.line {
+    height: 80px;
+    margin-top: 15px;
+    margin-left: 145px;
+}
+
+.white-joy {
+    width: 70px;
+    height: 70px;
+    margin-left: 269px;
+    top: 20px;
+    position: absolute;
+}
+
+.lab {
+    color: white;
+    position: absolute;
+    top: 30px;
+    margin-left: 349px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dese {
+    color: rgb(126, 125, 125);
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-left: 349px;
+    top: 55px;
+}
+
+.moree {
+    position: absolute;
+    color: white;
+    margin-left: 349px;
+    top: 82px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.line-6 {
+    height: 80px;
+    margin-left: 510px;
+    position: absolute;
+    top: 15px;
+}
+
+.minecraft {
+    width: 70px;
+    height: 70px;
+    margin-left: 525px;
+    top: 20px;
+    position: absolute;
+}
+
+.minecraftt {
+    color: white;
+    top: 30px;
+    position: absolute;
+    margin-left: 605px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Play-With-Xbox-Game-Pass {
+    font-size: 12px;
+    color: rgb(126, 125, 125);
+    position: absolute;
+    margin-left: 605px;
+    top: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.more1 {
+    position: absolute;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 605px;
+    top: 82px;
+}
+    
